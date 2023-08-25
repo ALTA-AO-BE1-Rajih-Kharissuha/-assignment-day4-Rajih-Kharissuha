@@ -1,0 +1,8 @@
+{"level":"info","message":"User Not Found"}
+{"level":"info","message":{"age":23,"lenguage":"German","location":"Berlin","name":"Sebastian Müller"}}
+{"level":"info","message":"Data User Not Found"}
+{"level":"info","message":"User id 11 Not Found"}
+{"level":"info","message":{"age":28,"id":"1","interests":["hiking","photography"],"language":"English","location":"New York","name":"John Doe","role":"user"}}
+{"level":"info","message":"User id 11 Not Found"}
+{"level":"info","message":{"age":"12312","language":"indonesia","location":"jember","name":"asd"}}
+{"level":"info","message":[{"age":24,"id":"2","language":"English","location":"Los Angeles","name":"Alice Smith","role":"user"},{"age":32,"id":"3","language":"Arabic","location":"Dubai","name":"Mohammed Khan","role":"admin"},{"age":29,"id":"4","language":"French","location":"Paris","name":"Sophie Martin","role":"user"},{"age":26,"id":"5","language":"Spanish","location":"Madrid","name":"Luis Rodriguez","role":"admin"},{"age":31,"id":"6","language":"Spanish","location":"Barcelona","name":"Marta Gómez","role":"user"},{"age":27,"id":"7","language":"Japanese","location":"Tokyo","name":"Yuki Tanaka","role":"user"},{"age":35,"id":"8","language":"Russian","location":"Moscow","name":"Elena Petrova","role":"admin"},{"age":23,"id":"9","language":"German","location":"Berlin","name":"Sebastian Müller","role":"user"},{"age":30,"id":"10","language":"Italian","location":"Rome","name":"Isabella Rossi","role":"user"}]}
